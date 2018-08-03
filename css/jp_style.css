@@ -1,0 +1,28 @@
+.justify {
+	text-align: justify;
+}
+
+.quote {
+	color: #fdfd96;
+	text-align: justify;
+	font-style: italic;
+}
+
+
+.newspaper {
+	text-align: justify;
+	font-family: times, serif !important;
+	font-size: smaller !important;
+	background-color: white;
+	color: black;
+	padding: 10px !important;
+}
+
+.c {
+	font-size: 60% !important;
+	text-align: justify;
+}
+
+h4 {
+	font-size: smaller !important;
+}

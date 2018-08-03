@@ -1,0 +1,1008 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"group",
+				"group_colors"
+			],
+			[
+				"scale_x_",
+				"scale_x_log10\t{ggplot2}"
+			],
+			[
+				"scale_y",
+				"scale_y_log10\t{ggplot2}"
+			],
+			[
+				"o_",
+				"o_dists"
+			],
+			[
+				"biweek_",
+				"biweek_start_date"
+			],
+			[
+				"star",
+				"stargazer\t{stargazer}"
+			],
+			[
+				"tiga",
+				"tiga_prob_pred"
+			],
+			[
+				"rmc",
+				"rmc_cc_roc"
+			],
+			[
+				"tig",
+				"tiga_logit_pred"
+			],
+			[
+				"tiga_logi",
+				"tiga_logit_pred"
+			],
+			[
+				"rmc_cc",
+				"rmc_cc_1sep"
+			],
+			[
+				"sep",
+				"Sep1Julian"
+			],
+			[
+				"comp_tig",
+				"comp_tigacell_daily_probs"
+			],
+			[
+				"comp_mu",
+				"comp_muni_daily_probs"
+			],
+			[
+				"comp_ti",
+				"comp_tigacell_summer"
+			],
+			[
+				"Tiga",
+				"TigacellID"
+			],
+			[
+				"D_ti",
+				"D_tiga_dt"
+			],
+			[
+				"Sep",
+				"Sep30Julian"
+			],
+			[
+				"Se",
+				"Sep1Julian"
+			],
+			[
+				"ovi",
+				"ovi_tigacell_coefs"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"max_o",
+				"max_ovi_prob_sea_day"
+			],
+			[
+				"selec",
+				"selected_sea_days"
+			],
+			[
+				"trap",
+				"trap_locations"
+			],
+			[
+				"AP",
+				"APS_ods_dos"
+			],
+			[
+				"muni_po",
+				"muni_post_list"
+			],
+			[
+				"full",
+				"full_sampling_frame"
+			],
+			[
+				"this_sam",
+				"this_sampling_frame"
+			],
+			[
+				"M_pres",
+				"M_preds_dt"
+			],
+			[
+				"lon",
+				"lon_location"
+			],
+			[
+				"prio",
+				"prior_stop"
+			],
+			[
+				"pred",
+				"pred_sum_dt"
+			],
+			[
+				"sea_",
+				"sea_days"
+			],
+			[
+				"this_s",
+				"this_sea_days"
+			],
+			[
+				"M_",
+				"M_preds_dt"
+			],
+			[
+				"rbin",
+				"rbindlist\t{data.table}"
+			],
+			[
+				"sea_day",
+				"sea_day_preds"
+			],
+			[
+				"sea",
+				"sea_days"
+			],
+			[
+				"this",
+				"this_provmun"
+			],
+			[
+				"mu",
+				"muni_pred_list"
+			],
+			[
+				"sample",
+				"sample_size"
+			],
+			[
+				"prov",
+				"PROVMUN"
+			],
+			[
+				"SE_ad",
+				"SE_adj_log_std2"
+			],
+			[
+				"sea_days_",
+				"sea_days_std2_sq"
+			],
+			[
+				"prov_",
+				"prov_probs"
+			],
+			[
+				"padr",
+				"padron2015_mun_daily_list"
+			],
+			[
+				"padron",
+				"padron2015_mun"
+			],
+			[
+				"daily_",
+				"daily_posterior_mean_list"
+			],
+			[
+				"these_",
+				"these_posterior_medians"
+			],
+			[
+				"cali",
+				"calib_M1"
+			],
+			[
+				"APS_",
+				"APS_ods_dos_interprov"
+			],
+			[
+				"transpo",
+				"transport_risk_od"
+			],
+			[
+				"trans",
+				"transport_risk_od"
+			],
+			[
+				"home_",
+				"home_prov_color"
+			],
+			[
+				"hom_",
+				"home_code_INE"
+			],
+			[
+				"duplicate",
+				"duplicate_mun"
+			],
+			[
+				"gadm",
+				"gadm_prov"
+			],
+			[
+				"T",
+				"Trap_ID"
+			],
+			[
+				"down",
+				"download.file\t{utils}"
+			],
+			[
+				"biwe",
+				"biweek_sq_kms"
+			],
+			[
+				"proj",
+				"proj4string"
+			],
+			[
+				"wok",
+				"work_code_INE"
+			],
+			[
+				"hoe_",
+				"home_code_INE"
+			],
+			[
+				"work_",
+				"work_code_INE"
+			],
+			[
+				"work",
+				"work_code_INE"
+			],
+			[
+				"base",
+				"base_name"
+			],
+			[
+				"media",
+				"median_M0"
+			],
+			[
+				"y_rep",
+				"y_rep_M0"
+			],
+			[
+				"smoot",
+				"smooth_prob"
+			],
+			[
+				"smooth",
+				"smooth_posterior"
+			],
+			[
+				"smoth",
+				"smooth_posterior_95"
+			],
+			[
+				"smooth_pos",
+				"smooth_posterior_means"
+			],
+			[
+				"tiga_",
+				"tiga_prob_imp"
+			],
+			[
+				"car",
+				"car_prob_ll"
+			],
+			[
+				"trave",
+				"travel_time_imp"
+			],
+			[
+				"y_re",
+				"y_rep_M1_agg"
+			],
+			[
+				"PROV",
+				"PROVMUN_origin"
+			],
+			[
+				"PROV_",
+				"PROVMUN_location"
+			],
+			[
+				"muni",
+				"muni_sp_utm_unique"
+			],
+			[
+				"muni_",
+				"muni_sp_utm_unique"
+			],
+			[
+				"travel",
+				"travel_time_log_std2"
+			],
+			[
+				"mult",
+				"multi_finds"
+			],
+			[
+				"destination_",
+				"destination_code_INE"
+			],
+			[
+				"source_",
+				"source_sink_table"
+			],
+			[
+				"souc",
+				"source_sink"
+			],
+			[
+				"source",
+				"source_sink"
+			],
+			[
+				"gadm_",
+				"gadm_prov_utm"
+			],
+			[
+				"gadm_p",
+				"gadm_prov_utm"
+			],
+			[
+				"path_to",
+				"path_to_untracked_output"
+			],
+			[
+				"path_to_",
+				"path_to_untracked_output"
+			],
+			[
+				"path_",
+				"path_to_figures"
+			],
+			[
+				"ovi_tig",
+				"ovi_tigacell_coefs"
+			],
+			[
+				"report",
+				"reporting_propensity_sampled_stanfit"
+			],
+			[
+				"eta",
+				"eta_b_sea_day"
+			],
+			[
+				"sigma",
+				"sigma_b_sea_day"
+			],
+			[
+				"sigm",
+				"sigma_a2"
+			],
+			[
+				"b_sea_",
+				"b_sea_days_std2"
+			],
+			[
+				"eta_b_",
+				"eta_b_sea_day_std2_cu"
+			],
+			[
+				"eta_",
+				"eta_b_sea_day_std2_sq"
+			],
+			[
+				"s",
+				"sigma_b_sea_day_std2"
+			],
+			[
+				"path",
+				"path_to_code"
+			],
+			[
+				"spain",
+				"spain_cells"
+			],
+			[
+				"participation_days",
+				"participation_days"
+			],
+			[
+				"user_",
+				"user_day_table"
+			],
+			[
+				"total",
+				"total_participation_days"
+			],
+			[
+				"user",
+				"user_coverage_uuid"
+			],
+			[
+				"parti",
+				"participation_days"
+			],
+			[
+				"NAME",
+				"NAME_2"
+			],
+			[
+				"b_sea",
+				"b_sea_day_tiga"
+			],
+			[
+				"b_Sea",
+				"b_sea_day_ovi"
+			],
+			[
+				"mask",
+				"masked_lat_ctr"
+			],
+			[
+				"row",
+				"rownames\t{base}"
+			],
+			[
+				"r_",
+				"r_array2016"
+			],
+			[
+				"tiga_prob",
+				"tiga_prob_frac"
+			],
+			[
+				"flush.",
+				"flush.console\t{utils}"
+			],
+			[
+				"this_",
+				"this_padron_table"
+			],
+			[
+				"PRO",
+				"PROVMUN"
+			],
+			[
+				"APS",
+				"APS_ods"
+			],
+			[
+				"tigacell",
+				"tigacell_muni_fracs"
+			],
+			[
+				"Jun",
+				"Jun21Julian"
+			],
+			[
+				"inter",
+				"intercept_ovi"
+			],
+			[
+				"intercept_tiga",
+				"intercept_tiga_sans_SE"
+			],
+			[
+				"prob",
+				"prob_3Aug"
+			],
+			[
+				"flush",
+				"flush.console\t{utils}"
+			],
+			[
+				"tigacell_adm",
+				"tigacell_admin_key"
+			],
+			[
+				"tigacell_",
+				"tigacell_admin_key"
+			],
+			[
+				"Tig",
+				"TigacellID"
+			],
+			[
+				"intercept",
+				"intercept_ovi"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "UB_Trumpigration_outline.md",
+			"settings":
+			{
+				"buffer_size": 7744,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 12523,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "MArkdown",
+		"selected_items":
+		[
+			[
+				"MArkdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 543.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/palmer/Dropbox/Trump/UB_2017_03_29"
+	],
+	"file_history":
+	[
+		"/Users/palmer/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/Users/palmer/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/Users/palmer/Library/Application Support/Sublime Text 3/Packages/User/Markdown (Standard).sublime-settings",
+		"/Users/palmer/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/README.md",
+		"/Users/palmer/Library/Application Support/Sublime Text 3/Packages/User/MarkdownEditing/MarkdownEditor-Blackboard.tmTheme",
+		"/Users/palmer/Dropbox/Trump/UB_2017_03_29/UB_Trumpigration_outline.md",
+		"/Users/palmer/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A0.0_data_download.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/settings/parameters.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_data_prep/mosquito_alert_cleaned_reports.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A2.3_mosquito_alert_car_hashtags.out",
+		"/Users/palmer/research/gTiger/Article_hitchhiking/code/A2.3_mosquito_alert_car_missions.r",
+		"/Users/palmer/research/gTiger/Article_hitchhiking/code/figures_individual_car_models.r",
+		"/Users/palmer/research/gTiger/Article_hitchhiking/code/A2.2_individual_cars_multilevel_logit.r",
+		"/Users/palmer/research/gTiger/Article_hitchhiking/code/A2.2_individual_cars_multilevel_logit.sh",
+		"/Users/palmer/research/gTiger/Article_hitchhiking/code/A2.3_mosquito_alert_car_hashtags.r",
+		"/Users/palmer/research/gTiger/Article_hitchhiking/code/A2.2_individual_cars_multilevel_logit.out",
+		"/Users/palmer/research/gTiger/.gitignore",
+		"/Users/palmer/research/gTiger/Article_hitchhiking/code/A0.1_mosquito_alert_model_predictions.r",
+		"/Users/palmer/research/gTiger/Article_hitchhiking/code/A1.0_dataprep1_main_data.r",
+		"/Users/palmer/research/gTiger/Article_citsci/data_for_hitchhiking/data_for_hitchhiking.r",
+		"/Users/palmer/research/gTiger/Article_hitchhiking/code/A0.0_mosquito_alert_model.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A5.2_ovitrap_model_predictions_munis.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A6.0_ovitrap_mosquiti_alert_comparison_prep.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/figures_mosquito_alert_ovitrap_comparison.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A6.1_ovitrap_mosquiti_alert_comparison.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A5.0_ovitrap_model_Me.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A4_biweek_reports_sampling_effort_prep.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_data_prep/mosquito_alert_raw_reports.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A1.1_tigacell_muni_proportions.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/figures_propensity_curves.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A6_ovitrap_mosquiti_alert_comparison.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A5.2_mosquito_alert_model_predictions_munis.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/figures_maps_static.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/figures_time_specific_withdrawal_rates.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/figures_transport_risks.r",
+		"/Users/palmer/research/gTiger/Article_citsci/data_for_aitana/data/inter_prov.Rds",
+		"/Users/palmer/research/gTiger/Article_citsci/data_for_aitana/data_for_aitana.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_data/APS_source_sink_data.Rds",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/figures_maps_animated.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A5.1_ovitrap_model_loo_waic_comparisons.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A5.1_ovitrap_model_predictions.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A5.1_mosquito_alert_model_predictions.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A7_commuting_risks.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/calculations_coverage.r",
+		"/Users/palmer/research/gHuman/aps_commuting/aps_commuting.r",
+		"/Users/palmer/research/gTiger/Article_citsci/external_data/EPAT2014Q01.txt",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A5.1_ovitrap_model_loo_waic.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A5.1_ovitrap_model_loo_waic.sh",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A5.0_ovitrap_model_Me.sh",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A5.0_mosquito_alert_model_Md.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A5.0_ovitrap_model_Ma.sh",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A5.0_ovitrap_model_Mb.sh",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A5.0_ovitrap_model_Mc.sh",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A5.0_ovitrap_model_Md.sh",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A5.0_mosquito_alert_model_Me.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A5.0_ovitrap_model_Mc.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A5.0_ovitrap_model_Ma.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A5.0_mosquito_alert_model_Ma.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A5.1_mosquito_alert_model_loo_waic.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A5.1_mosquito_alert_model_loo_waic.sh",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A5.0_mosquito_alert_model_loo_waic.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A5.1_mosquito_alert_model_predictions.sh",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A5.0_mosquito_alert_model_Mc.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A5.0_mosquito_alert_model_Mb.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A5.0_mosquito_alert_model.sh",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A5.0_mosquito_alert_model.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A5.0_mosquito_alert_model_Me.sh",
+		"/Users/palmer/research/gTiger/PAA2017/paa2017/index.html",
+		"/Users/palmer/research/gTiger/PAA2016/presentation/index.html",
+		"/Users/palmer/research/gTiger/Article_hitchhiking/code/A4.0_flows_daily.r",
+		"/Users/palmer/research/gTiger/PAA2017/paa2017/convert_pdf_hr.txt",
+		"/Users/palmer/research/gTiger/ecobalt2016/ecobalt2016/index.html",
+		"/Users/palmer/research/gTiger/PAA2017/paa2017/css/theme/beige.css",
+		"/Users/palmer/research/gTiger/ECSA_MEP_report/ecsa_mosquito_alert/index.html",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A5.0_ovitrap_model.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A4_ovitrap_model_dataset_prep.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A5.0_ovitrap_model.sh",
+		"/Users/palmer/research/gTiger/Article_hitchhiking/code/run_all.sh",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A5_mosquito_alert_model.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/stan/mosquito_alert_model_logit_RS_1L.stan",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A5_ovitrap_model.r",
+		"/Users/palmer/research/gTiger/Article_hitchhiking/code/A1.2_calibration_test.r",
+		"/Users/palmer/research/gTiger/Article_hitchhiking/code/A1.1_dataprep2_positive_municipalities.r",
+		"/Users/palmer/research/gTiger/Article_hitchhiking/data_for_natcomms_submission/data_for_natcomms_submission.r",
+		"/Users/palmer/research/gTiger/Article_citsci/data_for_aitana/data/README.txt",
+		"/Users/palmer/research/gTiger/Article_citsci/data_for_aitana/data/ovitrap_model_dataset.csv",
+		"/Users/palmer/research/gTiger/Article_citsci/data_for_aitana/data/mosquito_alert_cleaned_reports.csv",
+		"/Users/palmer/Library/Application Support/Sublime Text 3/Packages/User/SendREPL.sublime-settings",
+		"/Users/palmer/Library/Application Support/Sublime Text 3/Packages/SendREPL/SendREPL (OSX).sublime-settings",
+		"/Users/palmer/Library/Application Support/Sublime Text 3/Packages/R-Box/R-Box.sublime-settings",
+		"/Users/palmer/Library/Application Support/Sublime Text 3/Packages/User/R-Box.sublime-settings",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/README.md",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/run_all.sh",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A1.0_reporting_propensity_data_prep.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A1.0_spain_sampling_cell_grid.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A1.1_reporting_propensity_resampling.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A2_reporting_propensity_model.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/A3_reporting_propensity_predictions.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_data_prep/user_locations.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_data_prep/ovitraps.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_data_prep/municipal_register.r",
+		"/Users/palmer/research/gTiger/data/tigatrapp/report_fetch.py",
+		"/Users/palmer/research/gTiger/data/tigatrapp/tigatrapp_validated_reports_2017-03-06-16-28-51.csv",
+		"/Users/palmer/research/gTiger/Article_citsci/open_data_prep/user_participation_times.r",
+		"/Users/palmer/research/gTiger/Article_citsci/open_data_prep/user_registration_times.r",
+		"/Users/palmer/research/gTiger/Article_hitchhiking/code/A3.0_predictions_daily.r",
+		"/Users/palmer/research/gTiger/Article_citsci/report_exploration_2017/report_exploration.r",
+		"/Users/palmer/Downloads/packages/Natural_Earth_quick_start/README.md",
+		"/Users/palmer/research/gTiger/Article_hitchhiking/data_for_natcomms_submission/tiger_hitchhiking_data.csv",
+		"/Users/palmer/research/gTiger/Article_hitchhiking/data_for_natcomms_submission/README.txt",
+		"/Users/palmer/research/gTiger/Article_hitchhiking/data/mosquito_alert_results/README.txt",
+		"/Users/palmer/research/gTiger/Article_hitchhiking/code/figures_flows_daily.r",
+		"/Users/palmer/research/gTiger/Article_hitchhiking/code/A3.0_data_exploration.r",
+		"/Users/palmer/research/gTiger/Article_hitchhiking/code/A2.1_mosquito_alert_model.r",
+		"/Users/palmer/research/gTiger/Article_hitchhiking/code/A2.2_mosquito_alert_model_predictions.r",
+		"/Users/palmer/research/gTiger/Article_hitchhiking/code/A2.0_individual_cars_multilevel_logit.r",
+		"/Users/palmer/research/gTiger/Article_hitchhiking/code/figures_posterior_predictions.r",
+		"/Users/palmer/research/gTiger/Article_hitchhiking/code/figures_trip_maps.r",
+		"/Users/palmer/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/palmer/Dropbox/FB_2016_11_12.txt",
+		"/Users/palmer/research/gTiger/Article_hitchhiking/code/A3.0_predictions_daily.sh",
+		"/Users/palmer/research/gTiger/Article_citsci/open_code/stan/ovitrap_model_logit_RS_2L.stan",
+		"/Users/palmer/research/gTiger/Article_citsci/data_for_hitchhiking/data/README.txt",
+		"/Users/palmer/Dropbox/reviews/transport_geography/JTRG_2016_456_Original_V0_review.txt",
+		"/Users/palmer/research/gTiger/ECSA_MEP_report/mosquito_alert/index.html",
+		"/Users/palmer/research/gTiger/ecobalt2016/ecobalt2016/css/jp_style.css",
+		"/Users/palmer/research/gTiger/PAA2016/article/MosquitoAlert_Chikungunya.tex"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/Users/palmer/research/gTiger/Article_citsci/open_code",
+			"/Users/palmer/research/gTiger"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"$Distance",
+			")",
+			"(",
+			"stantab",
+			",",
+			",CAMPO,,",
+			"\t",
+			"mosquito_alert",
+			"vacuumed",
+			"upper",
+			"tigacell",
+			"muni",
+			"prov_sept_probs",
+			"sept_probs",
+			"math.js",
+			"default",
+			"prov.csv",
+			"padron2015_mun.Rds",
+			"esp_muni_00",
+			"ESP_adm4.RData",
+			"ESP_adm2.RData",
+			"prov.csv",
+			"ESP_adm2.RData",
+			"enc",
+			",",
+			" ",
+			"gadm",
+			"prov_centroids",
+			"ctable_fracs",
+			"ctable",
+			"eta_b_sea_day",
+			"sigma_b_sea_day",
+			"mu_b_sea_day",
+			"sea_day",
+			"sea_day_",
+			"sea_day",
+			"ncores",
+			"qsub",
+			"machine",
+			"D",
+			"\"",
+			"end_date",
+			"01700",
+			"tigapred",
+			"v_sampling",
+			"t_sampling",
+			"cat_gpdf",
+			"cat_cells",
+			"cat_gp",
+			"p>"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$distance",
+			"",
+			"','",
+			"",
+			",",
+			"ovitrap",
+			"muni",
+			"tigacell",
+			"prov_probs",
+			"daily_posterior_medians",
+			"sample_value",
+			"\", \"",
+			"ctable_adj_fracs",
+			"ctable_unadj_fracs",
+			"ctable_unadj",
+			"ctable_adj",
+			"eta_b_sea_days_std2",
+			"sigma_b_sea_days_std2",
+			"mu_b_sea_days_std2",
+			"sea_days_std2",
+			"sea_days_std2_",
+			"sea_days_",
+			"sea_day_std2",
+			"ttt",
+			"",
+			"ovipred",
+			"p_sampling",
+			"spain_gpdf",
+			"spain_cells",
+			"spain_gp",
+			"li>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "UB_Trumpigration_outline.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7744,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3429,
+								3429
+							]
+						],
+						"settings":
+						{
+							"parser": "markdown",
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
+							"tab_size": 4,
+							"target": "disk",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3974.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12523,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								871,
+								898
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 251.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "UB_trumpigration.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
